@@ -1,0 +1,16 @@
+C:\Users\ihsaa\Projects\high-low-values\High Low Values\High Low Values\bin\Debug\net8.0-windows\High Low Values.exe
+C:\Users\ihsaa\Projects\high-low-values\High Low Values\High Low Values\bin\Debug\net8.0-windows\High Low Values.deps.json
+C:\Users\ihsaa\Projects\high-low-values\High Low Values\High Low Values\bin\Debug\net8.0-windows\High Low Values.runtimeconfig.json
+C:\Users\ihsaa\Projects\high-low-values\High Low Values\High Low Values\bin\Debug\net8.0-windows\High Low Values.dll
+C:\Users\ihsaa\Projects\high-low-values\High Low Values\High Low Values\bin\Debug\net8.0-windows\High Low Values.pdb
+C:\Users\ihsaa\Projects\high-low-values\High Low Values\High Low Values\obj\Debug\net8.0-windows\High_Low_Values.Form1.resources
+C:\Users\ihsaa\Projects\high-low-values\High Low Values\High Low Values\obj\Debug\net8.0-windows\High Low Values.vbproj.GenerateResource.cache
+C:\Users\ihsaa\Projects\high-low-values\High Low Values\High Low Values\obj\Debug\net8.0-windows\High Low Values.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihsaa\Projects\high-low-values\High Low Values\High Low Values\obj\Debug\net8.0-windows\High Low Values.AssemblyInfoInputs.cache
+C:\Users\ihsaa\Projects\high-low-values\High Low Values\High Low Values\obj\Debug\net8.0-windows\High Low Values.AssemblyInfo.vb
+C:\Users\ihsaa\Projects\high-low-values\High Low Values\High Low Values\obj\Debug\net8.0-windows\High Low Values.vbproj.CoreCompileInputs.cache
+C:\Users\ihsaa\Projects\high-low-values\High Low Values\High Low Values\obj\Debug\net8.0-windows\High Low Values.dll
+C:\Users\ihsaa\Projects\high-low-values\High Low Values\High Low Values\obj\Debug\net8.0-windows\refint\High Low Values.dll
+C:\Users\ihsaa\Projects\high-low-values\High Low Values\High Low Values\obj\Debug\net8.0-windows\High Low Values.pdb
+C:\Users\ihsaa\Projects\high-low-values\High Low Values\High Low Values\obj\Debug\net8.0-windows\High Low Values.genruntimeconfig.cache
+C:\Users\ihsaa\Projects\high-low-values\High Low Values\High Low Values\obj\Debug\net8.0-windows\ref\High Low Values.dll

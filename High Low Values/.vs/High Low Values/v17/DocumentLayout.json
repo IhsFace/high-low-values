@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ihsaa\\Projects\\high-low-values\\High Low Values\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D130FC9A-7A03-4904-BE82-DC2F984E995D}|High Low Values\\High Low Values.vbproj|c:\\users\\ihsaa\\projects\\high-low-values\\high low values\\high low values\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D130FC9A-7A03-4904-BE82-DC2F984E995D}|High Low Values\\High Low Values.vbproj|solutionrelative:high low values\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D130FC9A-7A03-4904-BE82-DC2F984E995D}|High Low Values\\High Low Values.vbproj|c:\\users\\ihsaa\\projects\\high-low-values\\high low values\\high low values\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D130FC9A-7A03-4904-BE82-DC2F984E995D}|High Low Values\\High Low Values.vbproj|solutionrelative:high low values\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\ihsaa\\Projects\\high-low-values\\High Low Values\\High Low Values\\Form1.vb",
+              "RelativeDocumentMoniker": "High Low Values\\Form1.vb",
+              "ToolTip": "C:\\Users\\ihsaa\\Projects\\high-low-values\\High Low Values\\High Low Values\\Form1.vb",
+              "RelativeToolTip": "High Low Values\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-04T03:31:17.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ihsaa\\Projects\\high-low-values\\High Low Values\\High Low Values\\Form1.vb",
+              "RelativeDocumentMoniker": "High Low Values\\Form1.vb",
+              "ToolTip": "C:\\Users\\ihsaa\\Projects\\high-low-values\\High Low Values\\High Low Values\\Form1.vb [Design]",
+              "RelativeToolTip": "High Low Values\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-04T03:23:51.749Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
